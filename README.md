@@ -4,6 +4,7 @@
 * [Description](#description)
 * [Technologies](#technologies)
 * [My Steps](#my-steps)
+* [Results](#results)
 
 ## Description
 Refactor Code for the Horiseon Website so it meets accessibility standards and is optimzied for search engines. Improve the code by consolidating selectors and properties and organizing to follow a semantic structure.
@@ -11,8 +12,10 @@ Refactor Code for the Horiseon Website so it meets accessibility standards and i
 ## Technologies
 Project was updated using:
 * VS Code
-* HTML/CSS
+* HTML
+* CSS
 * Git
+* Terminal (Mac)
 * GitHub
 
 ## My Steps
@@ -20,19 +23,26 @@ Project was updated using:
 
 ### Refactored the code:
 * Added 'alt' attributes to images and graphics
-* Changed title element to better represent the site
+* Changed 'title' element to better represent the site
 * Fixed any wrong/incorrect code
-* Replaced Non-Semantic Elements with Semantic Elements and updated corresponding CSS
+* Replaced Non-Semantic Elements with Semantic Elements
 * Ensured HTML was structured sequentially and cleaned up code for easier readability
-* Reorganized CSS files to follow a logical structure
+* Consolidated and reorganized CSS to follow a logical structure
 * Resized images to a smaller file size for faster loading time
+* Tested the site throughout process to ensure it was still functioning properly and looked the same as originally provided
 
-### Tested site to ensure it was functioning properly and looked the same as originally provided.
+### Created a GitHub Repository with a unique name.
 
-### Pushed updated code onto Git and into my git repository:
+### Pushed code into my GitHub Repository using Git.
 
 * https://github.com/etrenholm/challenge-1
 
-### Changed the visibility of my site so it was published on github:
+### Created a live link of my site in GitHub:
 
 * https://etrenholm.github.io/challenge-1/
+
+## Results
+
+## Usage
+
+## Credit
