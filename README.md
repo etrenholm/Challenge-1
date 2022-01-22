@@ -43,6 +43,8 @@ Project was updated using:
 * https://github.com/etrenholm/challenge-1
 * https://etrenholm.github.io/challenge-1/
 
+![mockup](./assets/images/horiseon-screenshot.jpg)
+
 ## Credit
 
 Erica Trenholm: https://github.com/etrenholm
