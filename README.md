@@ -6,7 +6,6 @@
 * [My Steps](#my-steps)
 * [Results](#results)
 * [Credit](#credit)
-* [License](#license)
 
 ## Description
 Refactor Code for the Horiseon Website so it meets accessibility standards and is optimzied for search engines. Improve the code by consolidating selectors and properties and organizing to follow a semantic structure.
